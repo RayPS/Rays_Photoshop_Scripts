@@ -1,6 +1,11 @@
 # Ray's Photoshop scripts
 
-Press `SHIFT + CTRL + COMMAND + K` to open Photoshop's shortcut key settings.
+
+1. Copy all *.jsx files to `/Applications/Adobe Photoshop CC/Presets/Scripts`
+
+2. Restart Photoshop.
+
+3. Press `SHIFT + CTRL + COMMAND + K` to open Photoshop's shortcut key settings.
 
 ### SavePNGtoDesktop.jsx
 -------------------------------
